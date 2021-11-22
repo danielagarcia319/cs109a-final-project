@@ -23,4 +23,4 @@ Motivated students may find it appropriate to use the Spotify API to gather more
 ## Overleaf
 
 - Milestone 2 [Overleaf Template](https://www.overleaf.com/3316578227zhhjypgtmjqq)
-- Milestone 3 Overleaf Template
+- Milestone 3 [Overleaf Template](https://www.overleaf.com/5297315935qprcpnwcryck)
