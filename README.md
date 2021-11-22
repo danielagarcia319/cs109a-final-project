@@ -13,6 +13,10 @@ Motivated students may find it appropriate to use the Spotify API to gather more
 ## Contents
 
 - Project Guidelines
-- Milestone 2
-- Milestone 3
+- Milestone 2 Jupyter Notebook
+- Milestone 3 Jupyter Notebook
 
+## Overleaf
+
+- Milestone 2 (Overleaf Template)[https://www.overleaf.com/3316578227zhhjypgtmjqq]
+- Milestone 3 Overleaf Template
