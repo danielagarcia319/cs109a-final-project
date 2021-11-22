@@ -16,6 +16,10 @@ Motivated students may find it appropriate to use the Spotify API to gather more
 - Milestone 2 Jupyter Notebook
 - Milestone 3 Jupyter Notebook
 
+## Data
+- Data [Site](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
+- Data [Dowload] (https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files)
+
 ## Overleaf
 
 - Milestone 2 [Overleaf Template](https://www.overleaf.com/3316578227zhhjypgtmjqq)
