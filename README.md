@@ -18,7 +18,7 @@ Motivated students may find it appropriate to use the Spotify API to gather more
 
 ## Data
 - Data [Site](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
-- Data [Dowload] (https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files)
+- Data [Download](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files)
 
 ## Overleaf
 
