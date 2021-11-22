@@ -2,7 +2,7 @@
 
 Ilona Demler, Daniela Garcia, Kayla Manning, Saul Soto
 
-# Project Description
+## Project Description
 
 What makes a playlist popular?
 
@@ -10,7 +10,7 @@ Can we quantify what makes a playlist popular? Is there something inherent about
 
 Motivated students may find it appropriate to use the Spotify API to gather more information.
 
-# Contents
+## Contents
 
 - Project Guidelines
 - Milestone 2
