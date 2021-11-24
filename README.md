@@ -31,8 +31,8 @@ The dataset, sourced from [AIcrowd](https://www.aicrowd.com/challenges/spotify-m
 - `num_artists` - the total number of unique artists for the tracks in the playlist.
 - `num_albums` - the number of unique albums for the tracks in the playlist
 - `num_tracks` - the number of tracks in the playlist
-- `num_followers` - the number of followers this playlist had at the time the MPD was created. (Note that the follower count does not including the playlist creator)
-- `num_edits` - the number of separate editing sessions. Tracks added in a two hour window are considered to be added in a single editing session.
+- `num_followers` - the number of followers this playlist had at the time the MPD was created. (Note that the follower count does not include the playlist creator)
+- `num_edits` - the number of separate editing sessions. Tracks added in a two-hour window are considered to be added in a single editing session.
 - `duration_ms` - the total duration of all the tracks in the playlist (in milliseconds)
 - `collaborative` - boolean - if true, the playlist is a collaborative playlist. Multiple users may contribute tracks to a collaborative playlist.
 - `tracks` - an array of information about each track in the playlist. Each element in the array is a dictionary with the following fields:
@@ -41,7 +41,7 @@ The dataset, sourced from [AIcrowd](https://www.aicrowd.com/challenges/spotify-m
     - `album_name` - the name of the track’s album
     - `album_uri` - the Spotify URI of the album
     - `artist_name` - the name of the track’s primary artist
-    - `artist_uri` - the Spotify URI of track’s primary artist
+    - `artist_uri` - the Spotify URI of the track’s primary artist
     - `duration_ms` - the duration of the track in milliseconds
     - `pos` - the position of the track in the playlist (zero-based)
 
