@@ -1,5 +1,5 @@
 Data/data/*
 .ipynb_checkpoints/*
 data-sample.csv
-data_sample_500K.csv
-playlist_raw_data.csv
+data_sample_100K.csv
+playlist_data_raw.csv
