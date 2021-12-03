@@ -15,8 +15,8 @@ Motivated students may find it appropriate to use the Spotify API to gather more
 - Project Guidelines
 - Data Descriptions (click for [sliced](https://drive.google.com/drive/folders/1v9VchFigNE4bWx8jpaLzMrUlzH9zCQu9?usp=sharing) and [joined](https://drive.google.com/file/d/11kJ_E_K5ekkaN5SuYU5sjKqgR8uSMuxA/view?usp=sharing) raw data) 
 - Data Processing Jupyter Notebooks (`json_to_csv.ipynb` and `join_data.ipynb`)
-- Milestone 2 Jupyter Notebook (`Milestone_2.ipynb`)
-- Milestone 3 Jupyter Notebook
+- Milestone 2 Jupyter Notebook and PDF Report (`Milestone_2.ipynb` and `CS109a_Final_Project_Milestone_2.pdf`)
+- Milestone 3 Jupyter Notebook and PDF Report (`Milestone_3.ipynb` and `CS109a_Final_Project_Milestone_3.pdf`)
 
 ## Data
 
