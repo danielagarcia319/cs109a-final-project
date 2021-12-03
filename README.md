@@ -55,4 +55,3 @@ Playlists are sampled with randomization and anonymized to protect user privacy.
 ## Overleaf
 
 - Milestone 2 [Overleaf Template](https://www.overleaf.com/3316578227zhhjypgtmjqq)
-- Milestone 3 [Overleaf Template](https://www.overleaf.com/5297315935qprcpnwcryck)
